@@ -13,7 +13,7 @@ function FooterContainer() {
 					</Footer.MenuItem>
 				))}
 			</Footer.Menu>
-			<Footer.Text>Roseflix Philippines</Footer.Text>
+			<Footer.Text>NetFlix Philippines</Footer.Text>
 		</Footer>
 	);
 }

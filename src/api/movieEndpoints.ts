@@ -11,7 +11,7 @@ type Sections = {
 export const SECTIONS: Sections = {
 	movies: {
 		sections: [
-			{ title: 'Popular on Roseflix', endpoint: `/movie/popular?api_key=${API_KEY}` },
+			{ title: 'Popular on NetFlix', endpoint: `/movie/popular?api_key=${API_KEY}` },
 			{
 				title: 'Romance',
 				endpoint: `/discover/movie?api_key=${API_KEY}&with_genres=10749&with_watch_providers=8&watch_region=PH`
@@ -25,7 +25,7 @@ export const SECTIONS: Sections = {
 				endpoint: `/discover/movie?api_key=${API_KEY}&with_genres=878&with_watch_providers=8&watch_region=PH`
 			},
 			{
-				title: 'Roseflix Original',
+				title: 'NetFlix Original',
 				endpoint: `/discover/movie?api_key=${API_KEY}&with_networks=213&with_watch_providers=8&watch_region=PH`,
 				size: 'lg'
 			},
@@ -101,7 +101,7 @@ export const SECTIONS: Sections = {
 	},
 	series: {
 		sections: [
-			{ title: 'Popular on Roseflix', endpoint: `/tv/popular?api_key=${API_KEY}` },
+			{ title: 'Popular on NetFlix', endpoint: `/tv/popular?api_key=${API_KEY}` },
 			{
 				title: 'War Politics',
 				endpoint: `/discover/tv?api_key=${API_KEY}&with_genres=10768&with_watch_providers=8&watch_region=PH`
@@ -115,7 +115,7 @@ export const SECTIONS: Sections = {
 				endpoint: `/discover/tv?api_key=${API_KEY}&with_genres=99&with_watch_providers=8&watch_region=PH`
 			},
 			{
-				title: 'Roseflix Original',
+				title: 'NetFlix Original',
 				endpoint: `/discover/tv?api_key=${API_KEY}&with_networks=213&with_watch_providers=8&watch_region=PH`,
 				size: 'lg'
 			},

@@ -4,16 +4,16 @@
 
 <br />
 <p align="center">
-  <h1 align="center">Roseflix: A Netflix Clone</h1>
-  <img src="./public/images/readme/Main.png" alt="Roseflix Screenshot">
+  <h1 align="center">Netflix: A Netflix Clone</h1>
+  <img src="./public/images/readme/Main.png" alt="Netflix Screenshot">
   <p align="center">
     My React.js implementation of Netflix. Movie data was pulled from TMDB and trailer videos from Youtube.
     <br /><br />
-    <a href="https://roseflix-rosebilag.vercel.app"><strong>View Demo »</strong></a>
+    <a href="https://Netflix-rosebilag.vercel.app"><strong>View Demo »</strong></a>
     <br /><br />
-    <a href="https://github.com/rosebilag/roseflix/issues">Report Bug</a>
+    <a href="https://github.com/rosebilag/Netflix/issues">Report Bug</a>
     ·
-    <a href="https://github.com/rosebilag/roseflix/issues">Request Feature</a>
+    <a href="https://github.com/rosebilag/Netflix/issues">Request Feature</a>
   </p>
 </p>
 
@@ -79,7 +79,7 @@ Install latest version of npm
 ### Installation
 1. Clone the project
    ```sh
-   git clone https://github.com/rosebilag/roseflix.git
+   git clone https://github.com/rosebilag/Netflix.git
    ```
 2. Go to project directory and Install NPM packages
    ```sh
@@ -92,7 +92,7 @@ Install latest version of npm
    ```
 5. In a new directory, clone the backend and follow installation instructions on its README
    ```sh
-   git clone https://github.com/rosebilag/roseflix-backend
+   git clone https://github.com/rosebilag/Netflix-backend
    ```
 6. You should now have the server running locally. Add the url to your .env
    ```sh
@@ -196,10 +196,10 @@ Install latest version of npm
 ## Contact
 Rose Bilag - [LinkedIn](https://www.linkedin.com/in/rosejoybilag) - hello@rosebilag.com
 
-Project Link: [https://github.com/rosebilag/roseflix](https://github.com/rosebilag/roseflix)
+Project Link: [https://github.com/rosebilag/Netflix](https://github.com/rosebilag/Netflix)
 
 
 [netlify-shield]: https://img.shields.io/netlify/e828caa4-db91-4c8f-b1af-1333523dba5f?style=for-the-badge
-[netlify-url]:https://app.netlify.com/sites/roseflix/deploys
+[netlify-url]:https://app.netlify.com/sites/Netflix/deploys
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/rosejoybilag

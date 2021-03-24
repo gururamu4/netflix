@@ -88,7 +88,7 @@ function HeaderContainer({
 				<Header.Logo
 					className={!userDetails ? 'large' : ''}
 					src="/images/branding/Roseflix_Logo.png"
-					alt="Roseflix Logo"
+					alt="NetFlix Logo"
 					to={ROUTES.HOME.path}
 				/>
 				{!logoOnly && userDetails && <Header.Nav>{renderNavLinks()}</Header.Nav>}
@@ -113,7 +113,7 @@ function HeaderContainer({
 										Manage Profiles
 									</Header.MenuOption>
 									<Header.MenuOption className="no-img" onClick={() => signout()}>
-										Sign out of Roseflix
+										Sign out of NetFlix
 									</Header.MenuOption>
 								</Header.Menu>
 							</Header.Dropdown>
