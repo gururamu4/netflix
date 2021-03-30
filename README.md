@@ -1,4 +1,3 @@
-[![Netlify Status][netlify-shield]][netlify-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
