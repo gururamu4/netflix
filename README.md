@@ -1,4 +1,4 @@
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![LinkedIn]][linkedin-url]
 
 
 <br />
@@ -177,11 +177,8 @@ Install latest version of npm
 
 
 ## Contact
-Rose Bilag - [LinkedIn](https://www.linkedin.com/in/guru-ramu) - gururamu4497@gmail.com
+Guru Ramu - [LinkedIn](https://www.linkedin.com/in/guru-ramu) - gururamu4497@gmail.com
 
 Project Link: [https://github.com/gururamu4/netflix](https://github.com/gururamu4/netflix)
 
-
-[netlify-shield]: https://img.shields.io/netlify/e828caa4-db91-4c8f-b1af-1333523dba5f?style=for-the-badge
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/rosejoybilag
+[linkedin-url]: https://www.linkedin.com/in/guru-ramu
