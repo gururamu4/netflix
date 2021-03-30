@@ -9,11 +9,11 @@
   <p align="center">
     My React.js implementation of Netflix. Movie data was pulled from TMDB and trailer videos from Youtube.
     <br /><br />
-    <a href="https://Netflix-rosebilag.vercel.app"><strong>View Demo »</strong></a>
+    <a href="https://netliflix.netlify.app"><strong>View Demo »</strong></a>
     <br /><br />
-    <a href="https://github.com/rosebilag/Netflix/issues">Report Bug</a>
+    <a href="https://github.com/gururamu4/Netflix/issues">Report Bug</a>
     ·
-    <a href="https://github.com/rosebilag/Netflix/issues">Request Feature</a>
+    <a href="https://github.com/gururamu4/Netflix/issues">Request Feature</a>
   </p>
 </p>
 
@@ -79,28 +79,12 @@ Install latest version of npm
 ### Installation
 1. Clone the project
    ```sh
-   git clone https://github.com/rosebilag/Netflix.git
+   git clone https://github.com/gururamu4/netflix.git
    ```
 2. Go to project directory and Install NPM packages
    ```sh
    npm install
    ```
-3. Create .env file 
-4. Request an API key from TMDB and add it to your .env
-   ```sh
-   REACT_APP_API_KEY=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-   ```
-5. In a new directory, clone the backend and follow installation instructions on its README
-   ```sh
-   git clone https://github.com/rosebilag/Netflix-backend
-   ```
-6. You should now have the server running locally. Add the url to your .env
-   ```sh
-   REACT_APP_SERVER_URL=http://localhost:8080
-   ```
-7. Start the application
-   ```sh
-   npm start
    ```
 
 
@@ -194,12 +178,11 @@ Install latest version of npm
 
 
 ## Contact
-Rose Bilag - [LinkedIn](https://www.linkedin.com/in/rosejoybilag) - hello@rosebilag.com
+Rose Bilag - [LinkedIn](https://www.linkedin.com/in/guru-ramu) - gururamu4497@gmail.com
 
-Project Link: [https://github.com/rosebilag/Netflix](https://github.com/rosebilag/Netflix)
+Project Link: [https://github.com/gururamu4/netflix](https://github.com/gururamu4/netflix)
 
 
 [netlify-shield]: https://img.shields.io/netlify/e828caa4-db91-4c8f-b1af-1333523dba5f?style=for-the-badge
-[netlify-url]:https://app.netlify.com/sites/Netflix/deploys
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/rosejoybilag
